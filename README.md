@@ -248,6 +248,4 @@ This project is developed for **academic and research purposes only**. It is **N
 
 ---
 
-## 📄 License
 
-MIT License — free to use for academic purposes with attribution.
